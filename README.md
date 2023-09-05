@@ -5,6 +5,6 @@
 - 📫 How to reach me ...
 - Rbworkmail3@gmail.com
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64f3db3eb128dce3cba2331f?variant=dark)](https://roadmap.sh)
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64f3db3eb128dce3cba2331f?variant=dark&roadmaps=python%2Cfull-stack)](https://roadmap.sh)
 
 
