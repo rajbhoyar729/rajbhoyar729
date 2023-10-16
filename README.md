@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Welcome%5to%5my%5profile&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Welcome%7to%7my%7profile&fontSize=90)
 
 
 - 👋 Hi, I’m @rajbhoyar729
