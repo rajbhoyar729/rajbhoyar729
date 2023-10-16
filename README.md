@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Welcome%8to%8my%8profile&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Welcome&fontSize=90)
 
 
 - 👋 Hi, I’m @rajbhoyar729
@@ -10,5 +10,5 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/raj729?theme=dark&font=Rufina&ext=heatmap)_|_[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64f3db3eb128dce3cba2331f?variant=dark&roadmaps=full-stack%2Cpython%2Cai-data-scientist%2Cfrontend)](https://roadmap.sh)
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=Thank%20You&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=Thank%20You&fontSize=90)
 
