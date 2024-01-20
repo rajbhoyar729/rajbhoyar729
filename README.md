@@ -2,7 +2,8 @@
 
 
 # Hello,
-## *I'm @rajbhoyar729👋*  ![alt text][id] 
+ ![alt text][id] 
+## *I'm @rajbhoyar729👋* 
 
 [id]:./oig.jpeg
 
