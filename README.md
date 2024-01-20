@@ -3,7 +3,7 @@
 
 # Hello,
  ![alt text][id] 
-## *I'm @rajbhoyar729👋* 
+## *I'm @rajbhoyar729👋(aka byte wizard)* 
 
 [id]:./oig.jpeg
 
