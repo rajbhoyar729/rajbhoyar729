@@ -4,7 +4,7 @@
 # Hello,
 ## *I'm @rajbhoyar729👋*  ![alt text][id] 
 
-[id]:./img
+[id]:./img.jpg
 
 + 👨‍💻 Backend Developer | 🤖 ML Enthusiast | 🚀 Future Software Engineer
 
