@@ -2,7 +2,7 @@
 
 
 # Hello,
-## I'm @rajbhoyar729👋
+## *I'm @rajbhoyar729👋*
 
 + 👨‍💻 Backend Developer | 🤖 ML Enthusiast | 🚀 Future Software Engineer
 
