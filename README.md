@@ -1,7 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=Welcome&fontSize=90)
 
 
-## Hello, I'm @rajbhoyar729👋
+# Hello,
+## I'm @rajbhoyar729👋
 
 + 👨‍💻 Backend Developer | 🤖 ML Enthusiast | 🚀 Future Software Engineer
 
