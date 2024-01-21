@@ -7,7 +7,7 @@
 
 [id]:./oig.jpeg
 
-|---|
+
 | + 👨‍💻 Backend Developer | 🤖 ML Enthusiast | 🚀 Future Software Engineer|
 |---|
 | + 🔭 Passionate about contributing to open-source projects.|
