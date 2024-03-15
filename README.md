@@ -1,5 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=Welcome&fontSize=90)
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
 # Hello Folks,
  ![alt text][id] 
