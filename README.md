@@ -6,7 +6,6 @@
 
 [id]:./oig.jpeg
 
-![code gifs](https://tenor.com/bPhZ2.gif)
 + 👨‍💻 Backend Developer | 🤖 ML Enthusiast | 🚀 Future Software Engineer
 + 🔭 Passionate about contributing to open-source projects.
 + 🌱 Currently sharpening my skills in software development.
