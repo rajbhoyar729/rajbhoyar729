@@ -5,7 +5,7 @@
 ## *I'm @rajbhoyar729👋(aka byte wizard)* 
 
 [id]:./oig.jpeg
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajbhoyar729&label=Profile%20views&color=0e75b6&style=flat" alt="rajbhoyar729" /> </p>
 + 👨‍💻 Backend Developer | 🤖 ML Enthusiast | 🚀 Future Software Engineer
 + 🔭 Passionate about contributing to open-source projects.
 + 🌱 Currently sharpening my skills in software development.
