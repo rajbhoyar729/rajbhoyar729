@@ -6,12 +6,12 @@
 
 [id]:./oig.jpeg
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajbhoyar729&label=Profile%20views&color=0e75b6&style=flat" alt="rajbhoyar729" />   </p>
-+ 👨‍💻 Backend Developer | 🤖 ML Enthusiast | 🚀 Future Software Engineer
-+ 🔭 Passionate about contributing to open-source projects.
-+ 🌱 Currently sharpening my skills in software development.
-+ 💡 Always exploring the intersection of technology and innovation.
-+ 💞️ I'm eager to collaborate and learn from fellow developers.
-+ 📫 Let's connect! Drop me a line at [rbhoyar729@gmail.com].
++ 👨‍💻 Backend Developer | 🤖 ML Enthusiast | 🚀 Future Software Engineer <br>
++ 🔭 Passionate about contributing to open-source projects.<br>
++ 🌱 Currently sharpening my skills in software development.<br>
++ 💡 Always exploring the intersection of technology and innovation.<br>
++ 💞️ I'm eager to collaborate and learn from fellow developers.<br>
++ 📫 Let's connect! Drop me a line at [rbhoyar729@gmail.com].<br>
 
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/raj729?theme=dark&font=Rufina&ext=heatmap)
