@@ -15,7 +15,7 @@
 <li>🌱 Currently sharpening my skills in software development.<br></li>
 <li>💡 Always exploring the intersection of technology and innovation.<br></li>
 <li>💞️ I'm eager to collaborate and learn from fellow developers.<br></li>
-<li>📫 Let's connect! Drop me a line at [rbhoyar729@gmail.com].<br></li>
+<li>📫 Let's connect! Drop me a line at <a href="rbhoyar729@gmail.com"> [me] </a> <br></li>
 </ul>
 
 
