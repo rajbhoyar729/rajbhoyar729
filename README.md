@@ -2,6 +2,7 @@
 
 # Hello Folks,
  ![alt text][id] 
+ <img align="right" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" alt="clock" width="400">
 ## *I'm @rajbhoyar729👋(aka byte wizard)* 
 
 [id]:./oig.jpeg
