@@ -1,3 +1,4 @@
+<body  bgcolor="black">
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=Welcome&fontSize=90)
 
 # Hello Folks,
@@ -21,3 +22,4 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=footer&text=Thank%20You&fontSize=90) 
 
+</body>
