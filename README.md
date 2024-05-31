@@ -1,14 +1,15 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=Welcome&fontSize=90)
-## Hello Folks!,
+## Hello Folks! ,
 ![alt text][id]
  <img align="right" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" alt="clock" width="400">
 ## I'm @rajbhoyar729👋(aka byte wizard)
 
 [id]:./oig.jpeg
+
 <hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajbhoyar729&label=Profile%20views&color=0e75b6&style=flat" alt="rajbhoyar729" />   </p>
- <ul>
+<ul>
 <li>👨‍💻 Backend Developer | 🤖 ML Enthusiast | 🚀 Future Software Engineer <br></li>
 <li>🔭 Passionate about contributing to open-source projects.<br></li>
 <li>🌱 Currently sharpening my skills in software development.<br></li>
