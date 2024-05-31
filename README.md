@@ -1,6 +1,5 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=Welcome&fontSize=90)
-<body  background="#00000">
 <h1>Hello Folks</h1>
  <img align="left"scr="rajbhoyar729/oig.jpeg" alt="img" width="300">
  <img align="right" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" alt="clock" width="400">
@@ -20,7 +19,7 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/raj729?theme=dark&font=Rufina&ext=heatmap)
 
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64f3db3eb128dce3cba2331f?variant=dark)](https://roadmap.sh) 
-</body>
+
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=footer&text=Thank%20You&fontSize=90) 
 
 
