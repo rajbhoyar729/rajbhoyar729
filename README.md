@@ -3,7 +3,7 @@
 <h1>Hello Folks</h1>
 ![alt text][id]
  <img align="right" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" alt="clock" width="400">
-<h2>*I'm @rajbhoyar729👋(aka byte wizard)*</h2> 
+<h2>I'm @rajbhoyar729👋(aka byte wizard)</h2> 
 
 id:./oig.jpeg
 <hr>
