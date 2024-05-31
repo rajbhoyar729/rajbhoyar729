@@ -5,14 +5,15 @@
 ## *I'm @rajbhoyar729👋(aka byte wizard)* 
 
 [id]:./oig.jpeg
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajbhoyar729&label=Profile%20views&color=0e75b6&style=flat" alt="rajbhoyar729" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajbhoyar729&label=Profile%20views&color=0e75b6&style=flat" alt="rajbhoyar729" /> 
 + 👨‍💻 Backend Developer | 🤖 ML Enthusiast | 🚀 Future Software Engineer
 + 🔭 Passionate about contributing to open-source projects.
 + 🌱 Currently sharpening my skills in software development.
 + 💡 Always exploring the intersection of technology and innovation.
 + 💞️ I'm eager to collaborate and learn from fellow developers.
 + 📫 Let's connect! Drop me a line at [rbhoyar729@gmail.com].
-  
+
+  </p>
 ![LeetCode Stats](https://leetcard.jacoblin.cool/raj729?theme=dark&font=Rufina&ext=heatmap)
 
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64f3db3eb128dce3cba2331f?variant=dark)](https://roadmap.sh) 
