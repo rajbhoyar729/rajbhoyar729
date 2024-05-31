@@ -1,8 +1,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=Welcome&fontSize=90)
 <body  background="#00000">
-<h1>Hello Folks</h1>,
- <hr>
+<h1>Hello Folks</h1>
  <img align="left"scr="rajbhoyar729/oig.jpeg" alt="img" width="300">
  <img align="right" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" alt="clock" width="400">
 <hr>
