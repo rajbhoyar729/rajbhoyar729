@@ -10,9 +10,9 @@
 <hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajbhoyar729&label=Profile%20views&color=0e75b6&style=flat" alt="rajbhoyar729" />   </p>
 <ul>
-<li>👨‍💻 Backend Developer | 🤖 ML Enthusiast | 🚀 Future Software Engineer <br></li>
+<li>👨‍💻 Backend Developer | 🤖 ML Enthusiast | 🚀 Software Engineer <br></li>
 <li>🔭 Passionate about contributing to open-source projects.<br></li>
-<li>🌱 Currently sharpening my skills in software development.<br></li>
+<li>🌱 Polishing my skills in software development.<br></li>
 <li>💡 Always exploring the intersection of technology and innovation.<br></li>
 <li>💞️ I'm eager to collaborate and learn from fellow developers.<br></li>
 <li>📫 Let's connect! Drop me a line at <a href="rbhoyar729@gmail.com"> [me] </a> <br></li>
