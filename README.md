@@ -8,7 +8,6 @@
 
 [id]:./oig.jpeg
 
-<hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajbhoyar729&label=Profile%20views&color=0e75b6&style=flat" alt="rajbhoyar729" />   </p>
 <ul>
 <li>👨‍💻 Backend Developer | 🤖 ML Enthusiast | 🚀 Software Engineer <br></li>
