@@ -2,7 +2,7 @@
 ## Hello Folks! ,
 ![alt text][id]
  <img align="right" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" alt="clock" width="400">
-## I'm @rajbhoyar729![](https://tenor.com/blOVi.gif)(aka byte wizard)
+## I'm @rajbhoyar729![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) (aka byte wizard)
 
 [id]:./oig.jpeg
 
