@@ -16,6 +16,13 @@
 
 
 <table>
+
+  <tr>
+    
+![LeetCode Stats](https://leetcard.jacoblin.cool/raj729?theme=dark&font=Rufina&ext=heatmap)
+
+
+</tr>
   <tr>
     <td> <h3> Skills </h3></td>
     <td>  <h3> Socials </h3> </td>
@@ -33,9 +40,6 @@
 </td>
   </tr>
 
-  <tr>
-![LeetCode Stats](https://leetcard.jacoblin.cool/raj729?theme=dark&font=Rufina&ext=heatmap)
-</tr>
 </table>
 
 
