@@ -1,12 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=Welcome&fontSize=90)
+
 ## Hello Folks! ,
-![alt text][id]
+
  <img align="right" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" alt="clock" width="400">
  <br>
 ## I'm @rajbhoyar729![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) (aka byte wizard)
-
-
-[id]:./oig.jpeg
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajbhoyar729&label=Profile%20views&color=0e75b6&style=flat" alt="rajbhoyar729" />   </p>
 <ul>
@@ -39,6 +36,6 @@
 
 
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=footer&text=Thank%20You&fontSize=90) 
+
 
 
