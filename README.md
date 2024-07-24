@@ -34,7 +34,6 @@
   </tr>
 
   <tr>
-
 ![LeetCode Stats](https://leetcard.jacoblin.cool/raj729?theme=dark&font=Rufina&ext=heatmap)
 </tr>
 </table>
