@@ -1,6 +1,6 @@
 # Raj Bhoyar
 
-![Profile Picture](https://media.licdn.com/dms/image/v2/D5603AQESrL5MY66Uyg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1730860976644?e=1741219200&v=beta&t=P-mceBmL4mKntV72tFyuumBMcBaSEBAuMeoIWs4_-Dg)
+<img src="https://media.licdn.com/dms/image/v2/D5603AQESrL5MY66Uyg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1730860976644?e=1741219200&v=beta&t=P-mceBmL4mKntV72tFyuumBMcBaSEBAuMeoIWs4_-Dg" style="border-radius: 50%;">
 
 ## About Me
 A passionate developer with expertise in multiple programming languages and frameworks. I enjoy solving complex problems and building efficient systems.
