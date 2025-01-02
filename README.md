@@ -50,7 +50,7 @@ A passionate developer with expertise in multiple programming languages and fram
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnJmbzBwMzJvZzc0ZmxjbHV0dmxwcjZpZm1nMG1vMmM2ZW9hNmp3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" width="480" height="271" alt="Programming GIF">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnkzMmttdWg3b3dwaHUzbm8wN2o0MHc4eng1N3Q4dDM1NXM1dDdjdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aEwLTJvYxwo1L09oyP/giphy.gif" width="480" height="271" alt="Programming GIF">
 </div>
 
 <!-- Projects Section -->
