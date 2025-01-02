@@ -17,95 +17,74 @@ A passionate developer with expertise in multiple programming languages and fram
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="96">
-        <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" />
-        <br>TypeScript
+      <td align="center" width="120">
+        <br>![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
       </td>
-      <td align="center" width="96">
-        <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" />
-        <br>JavaScript
+      <td align="center" width="120">
+        <br>![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
       </td>
-      <td align="center" width="96">
-        <img src="https://img.icons8.com/color/48/000000/golang.png" alt="Go" />
-        <br>Go
+      <td align="center" width="120">
+        <br>![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
       </td>
-      <td align="center" width="96">
-        <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" />
-        <br>C++
+      <td align="center" width="120">
+        <br>![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
       </td>
-      <td align="center" width="96">
-        <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" />
-        <br>Python
+      <td align="center" width="120">
+        <br>![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
       </td>
     </tr>
     <tr>
-      <td align="center" width="96">
-        <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" />
-        <br>HTML
+      <td align="center" width="120">
+        <br>![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
       </td>
-      <td align="center" width="96">
-        <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" />
-        <br>CSS
+      <td align="center" width="120">
+        <br>![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
       </td>
-      <td align="center" width="96">
-        <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" />
-        <br>Node.js
+      <td align="center" width="120">
+        <br>![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
       </td>
-      <td align="center" width="96">
-        <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" />
-        <br>React
+      <td align="center" width="120">
+        <br>![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
       </td>
-      <td align="center" width="96">
-        <img src="https://img.icons8.com/color/48/000000/nextjs.png" alt="Next.js" />
-        <br>Next.js
+      <td align="center" width="120">
+        <br>![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
       </td>
     </tr>
     <tr>
-      <td align="center" width="96">
-        <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" />
-        <br>AWS
+      <td align="center" width="120">
+        <br>![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
       </td>
-      <td align="center" width="96">
-        <img src="https://img.icons8.com/color/48/000000/azure.png" alt="Azure" />
-        <br>Azure
+      <td align="center" width="120">
+        <br>![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
       </td>
-      <td align="center" width="96">
-        <img src="https://img.icons8.com/color/48/000000/google-cloud.png" alt="Google Cloud" />
-        <br>Google Cloud
+      <td align="center" width="120">
+        <br>![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
       </td>
-      <td align="center" width="96">
-        <img src="https://img.icons8.com/color/48/000000/agile.png" alt="Agile" />
-        <br>Agile
+      <td align="center" width="120">
+        <br>![Agile](https://img.shields.io/badge/Agile-2496ED?style=for-the-badge&logo=agile&logoColor=white)
       </td>
-      <td align="center" width="96">
-        <img src="https://img.icons8.com/color/48/000000/scrum.png" alt="Scrum" />
-        <br>Scrum
+      <td align="center" width="120">
+        <br>![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrum&logoColor=white)
       </td>
     </tr>
     <tr>
-      <td align="center" width="96">
-        <img src="https://img.icons8.com/color/48/000000/continuous-integration.png" alt="CI/CD" />
-        <br>CI/CD
+      <td align="center" width="120">
+        <br>![CI/CD](https://img.shields.io/badge/CI%2FCD-4CAF50?style=for-the-badge&logo=ci%2Fcd&logoColor=white)
       </td>
-      <td align="center" width="96">
-        <img src="https://img.icons8.com/color/48/000000/microservices.png" alt="Microservices" />
-        <br>Microservices
+      <td align="center" width="120">
+        <br>![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge&logo=microservices&logoColor=white)
       </td>
-      <td align="center" width="96">
-        <img src="https://img.icons8.com/color/48/000000/api.png" alt="REST APIs" />
-        <br>REST APIs
+      <td align="center" width="120">
+        <br>![REST APIs](https://img.shields.io/badge/REST_APIs-00C853?style=for-the-badge&logo=rest&logoColor=white)
       </td>
-      <td align="center" width="96">
-        <img src="https://img.icons8.com/color/48/000000/graphql.png" alt="GraphQL" />
-        <br>GraphQL
+      <td align="center" width="120">
+        <br>![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
       </td>
-      <td align="center" width="96">
-        <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" />
-        <br>Git
+      <td align="center" width="120">
+        <br>![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
       </td>
-      <td align="center" width="96">
-        <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" />
-        <br>GitHub
+      <td align="center" width="120">
+        <br>![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
       </td>
     </tr>
   </table>
