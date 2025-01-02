@@ -2,6 +2,7 @@
 <div align="center">
   <h1>Raj Bhoyar</h1>
   <img src="raj.png" style="border-radius: 50%; width: 100px; height: 100px;" alt="Profile Picture">
+  <iframe src="https://giphy.com/embed/L1R1tvI9svkIWwpVYr" width="480" height="271" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr">via GIPHY</a></p>
 </div>
 
 <!-- About Section -->
@@ -60,8 +61,3 @@ A passionate developer with expertise in multiple programming languages and fram
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajbhoyar729&theme=dark&show_icons=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajbhoyar729&langs_count=8&theme=dark)
-
-<!-- Programmer GIF Section -->
-<div align="center">
-  <img src="https://path-to-programmer-gif.gif" style="width: 200px;" alt="Programming GIF">
-</div>
