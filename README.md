@@ -11,6 +11,7 @@
 
 A passionate developer with expertise in multiple programming languages and frameworks. I enjoy solving complex problems and building scalable solutions.
 
+
 <!-- Skills Section -->
 ## Skills
 
@@ -37,6 +38,7 @@ A passionate developer with expertise in multiple programming languages and fram
 ## Projects
 
 Working on it, will update soon.
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnJmbzBwMzJvZzc0ZmxjbHV0dmxwcjZpZm1nMG1vMmM2ZW9hNmp3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" width="480" height="271" alt="Working on it GIF">
 
 <!-- Certifications Section -->
 ## Certifications
