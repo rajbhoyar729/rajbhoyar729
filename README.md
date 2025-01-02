@@ -1,6 +1,6 @@
 <div style="display: flex; align-items: center;">
   <h1 style="margin-right: 20px;">Raj Bhoyar</h1>
-  <img src="raj.jpeg" style="border-radius: 50%; width: 100px; height: 100px;" alt="Profile Picture">
+  <img src="raj.png" style="border-radius: 50%; width: 100px; height: 100px;" alt="Profile Picture">
 </div>
 
 <div style="margin-top: 20px;">
