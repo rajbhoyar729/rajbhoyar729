@@ -34,8 +34,8 @@ A passionate developer with expertise in multiple programming languages and fram
 <!-- Projects Section -->
 ## Projects
 
-- **Project Name**: Brief description of the project. [Link to project](#)
-- **Another Project**: Brief description of the project. [Link to project](#)
+- **Project1**: Description of Project1. [Link to Project1](#)
+- **Project2**: Description of Project2. [Link to Project2](#)
 
 <!-- Certifications Section -->
 ## Certifications
@@ -43,22 +43,17 @@ A passionate developer with expertise in multiple programming languages and fram
 - **Certification Name**: Brief description of the certification. [Link to certification](#)
 - **Another Certification**: Brief description of the certification. [Link to certification](#)
 
-<!-- Testimonials Section -->
-## Testimonials
-
-> "Raj is a highly skilled developer with a great eye for detail." - Colleague Name
-
 <!-- Blog Posts Section -->
 ## Blog Posts
 
-- **[Blog Post Title](#)**: Brief description of the blog post.
-- **[Another Blog Post Title](#)**: Brief description of the blog post.
+- **Coming Soon**
 
 <!-- Social Links Section -->
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raj-bhoyar-b597b416a)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/raj729/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://bitwizard.tech)
 
 <!-- GitHub Stats Section -->
 ## GitHub Stats
