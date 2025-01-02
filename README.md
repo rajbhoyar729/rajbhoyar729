@@ -18,37 +18,37 @@ A passionate developer with expertise in multiple programming languages and fram
   <img src="raj.png" style="border-radius: 50%; width: 100px; height: 100px;" alt="Profile Picture" align="right">
   
   ### Programming Languages
-  - 🟦 **TypeScript**
-  - 🟨 **JavaScript**
-  - 🟦 **Go**
-  - 🟦 **C++**
-  - 🟦 **Python**
+  - ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png) **TypeScript**
+  - ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) **JavaScript**
+  - ![Go](https://img.icons8.com/color/48/000000/golang.png) **Go**
+  - ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) **C++**
+  - ![Python](https://img.icons8.com/color/48/000000/python.png) **Python**
 
   ### Web Technologies
-  - 🟥 **HTML**
-  - 🟦 **CSS**
-  - 🟩 **Node.js**
-  - 🟦 **React**
-  - ⬛ **Next.js**
+  - ![HTML](https://img.icons8.com/color/48/000000/html-5.png) **HTML**
+  - ![CSS](https://img.icons8.com/color/48/000000/css3.png) **CSS**
+  - ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) **Node.js**
+  - ![React](https://img.icons8.com/color/48/000000/react-native.png) **React**
+  - ![Next.js](https://img.icons8.com/color/48/000000/nextjs.png) **Next.js**
 
   ### Cloud Infrastructure
-  - 🟧 **AWS**
-  - 🟦 **Azure**
-  - 🟦 **Google Cloud**
+  - ![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png) **AWS**
+  - ![Azure](https://img.icons8.com/color/48/000000/azure.png) **Azure**
+  - ![Google Cloud](https://img.icons8.com/color/48/000000/google-cloud.png) **Google Cloud**
 
   ### Development Practices
-  - 🟦 **Agile**
-  - 🟩 **Scrum**
-  - 🟩 **CI/CD**
+  - ![Agile](https://img.icons8.com/color/48/000000/agile.png) **Agile**
+  - ![Scrum](https://img.icons8.com/color/48/000000/scrum.png) **Scrum**
+  - ![CI/CD](https://img.icons8.com/color/48/000000/continuous-integration.png) **CI/CD**
 
   ### System Design
-  - 🟧 **Microservices**
-  - 🟩 **REST APIs**
-  - 🟪 **GraphQL**
+  - ![Microservices](https://img.icons8.com/color/48/000000/microservices.png) **Microservices**
+  - ![REST APIs](https://img.icons8.com/color/48/000000/api.png) **REST APIs**
+  - ![GraphQL](https://img.icons8.com/color/48/000000/graphql.png) **GraphQL**
 
   ### Version Control
-  - 🟥 **Git**
-  - ⬛ **GitHub**
+  - ![Git](https://img.icons8.com/color/48/000000/git.png) **Git**
+  - ![GitHub](https://img.icons8.com/color/48/000000/github.png) **GitHub**
 </div>
 
 <!-- Projects Section -->
