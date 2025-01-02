@@ -37,6 +37,23 @@ A passionate developer with expertise in multiple programming languages and fram
 - **Project Name**: Brief description of the project. [Link to project](#)
 - **Another Project**: Brief description of the project. [Link to project](#)
 
+<!-- Certifications Section -->
+## Certifications
+
+- **Certification Name**: Brief description of the certification. [Link to certification](#)
+- **Another Certification**: Brief description of the certification. [Link to certification](#)
+
+<!-- Testimonials Section -->
+## Testimonials
+
+> "Raj is a highly skilled developer with a great eye for detail." - Colleague Name
+
+<!-- Blog Posts Section -->
+## Blog Posts
+
+- **[Blog Post Title](#)**: Brief description of the blog post.
+- **[Another Blog Post Title](#)**: Brief description of the blog post.
+
 <!-- Social Links Section -->
 ## Connect with Me
 
