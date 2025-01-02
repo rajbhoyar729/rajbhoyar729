@@ -63,10 +63,6 @@ Working on it, will update soon.
 <!-- Certifications Section -->
 ## Certifications
 
-<div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHc2c2Q2d2R4ZXp2ZGZhZnZ5bGZtd3g2NDh0eGZ6eDRwazEzZnVqciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aEwLTJvYxwo1L09oyP/giphy.gif" width="300" height="200" alt="Certification GIF">
-</div>
-
 - ![Certification](https://img.shields.io/badge/Certification-Name-blue?style=for-the-badge&logo=awesomelogo) **Certification Name**: Brief description of the certification. [Link to certification](#)
 - ![Certification](https://img.shields.io/badge/Certification-Another-blue?style=for-the-badge&logo=awesomelogo) **Another Certification**: Brief description of the certification. [Link to certification](#)
 
