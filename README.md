@@ -1,11 +1,12 @@
 # Raj Bhoyar
 
-## 🚀 About Me
+![Profile Picture](https://media.licdn.com/dms/image/v2/D5603AQESrL5MY66Uyg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1730860976644?e=1741219200&v=beta&t=P-mceBmL4mKntV72tFyuumBMcBaSEBAuMeoIWs4_-Dg)
+
+## About Me
 A passionate developer with expertise in multiple programming languages and frameworks. I enjoy solving complex problems and building efficient systems.
 
-## 🛠 Skills
+## Skills
 
-### Programming Languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
@@ -40,13 +41,12 @@ A passionate developer with expertise in multiple programming languages and fram
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-## 📫 Socials
+## Connect with Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-101010?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajbhoyar729)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raj-bhoyar-b597b416a)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/raj729/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/raj729/)
 
-## 📊 Badges
+## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajbhoyar729&theme=dark&show_icons=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajbhoyar729&langs_count=8&theme=dark)
