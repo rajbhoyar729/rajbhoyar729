@@ -1,6 +1,6 @@
 # Raj Bhoyar
 
-<img src="raj.jpeg" style="border-radius: 50%;">
+<img src="raj.png" style="border-radius: 50%;">
 
 ## About Me
 A passionate developer with expertise in multiple programming languages and frameworks. I enjoy solving complex problems and building efficient systems.
