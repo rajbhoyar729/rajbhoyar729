@@ -2,7 +2,8 @@
 <div align="center">
   <h1>Raj Bhoyar</h1>
   <img src="raj.png" style="border-radius: 50%; width: 100px; height: 100px;" alt="Profile Picture">
-  <iframe src="https://giphy.com/embed/L1R1tvI9svkIWwpVYr" width="480" height="271" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr">via GIPHY</a></p>
+  <h3><i>Passionate Developer | Problem Solver | Tech Enthusiast</i></h3>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="480" height="271" alt="Coding GIF">
 </div>
 
 <!-- About Section -->
