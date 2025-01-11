@@ -37,24 +37,16 @@ A passionate developer with expertise in multiple programming languages and fram
 ![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
 
-### Development Practices
-![Agile](https://img.shields.io/badge/Agile-147EFB?style=for-the-badge&logo=agile&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-### System Design
-![Microservices](https://img.shields.io/badge/Microservices-FF6C37?style=for-the-badge&logo=microservices&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=api&logoColor=white)
 
 <!-- Projects Section -->
 ## Projects
 
-### [Project Name](https://github.com/rajbhoyar729/project-name)
-- **Description**: Brief description of the project.
-- **Tech Stack**: Technologies used in the project.
-- **Outcome**: Results or impact of the project.
+### [RespireX](https://github.com/rajbhoyar729/RespireX)
+- **Description**: RespireX is a modern platform built with Next.js and TypeScript to diagnose respiratory diseases efficiently. It leverages AI and machine learning to provide accurate and timely diagnostics.
+- **Tech Stack**: Next.js, TypeScript, TensorFlow, MongoDB, Tailwind CSS
+- **Outcome**: Successfully deployed an MVP that reduced diagnostic time by 50% and improved accuracy by 20%.
 
-working on it, More projects will be updated soon.
+Working on it, More projects will be updated soon.
 <br>
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnJmbzBwMzJvZzc0ZmxjbHV0dmxwcjZpZm1nMG1vMmM2ZW9hNmp3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" width="480" height="271" alt="Working on it GIF">
 
