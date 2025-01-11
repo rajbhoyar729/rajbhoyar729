@@ -1,6 +1,7 @@
 <!-- Header Section -->
 <div align="center" style="background: url('https://your-header-background-image-url'); padding: 20px;">
   <h1 style="color: white;">Raj Bhoyar</h1>
+  <h2 style="color: white;">Empowering Startups with Cutting-Edge Technology</h2>
   <img src="raj.png" style="border-radius: 50%; width: 100px; height: 100px;" alt="Profile Picture">
   <h3 style="color: white;"><i>Passionate Developer | Problem Solver | Tech Enthusiast</i></h3>
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="480" height="271" alt="Coding GIF">
@@ -9,7 +10,7 @@
 <!-- About Section -->
 ## About Me
 
-A passionate developer with expertise in multiple programming languages and frameworks. I enjoy solving complex problems and building scalable solutions. With a strong background in software development, I have successfully delivered numerous projects and continuously strive to learn and grow.
+A passionate developer with expertise in multiple programming languages and frameworks. I enjoy solving complex problems and building scalable solutions. With a strong background in software development, I have successfully delivered numerous projects and continuously strive to learn and grow. Experienced in working with startups to build innovative products, streamline processes, and achieve rapid growth.
 
 <!-- Skills Section -->
 ## Skills
@@ -47,6 +48,11 @@ A passionate developer with expertise in multiple programming languages and fram
 
 <!-- Projects Section -->
 ## Projects
+
+### [Project Name](https://github.com/rajbhoyar729/project-name)
+- **Description**: Brief description of the project.
+- **Tech Stack**: Technologies used in the project.
+- **Outcome**: Results or impact of the project.
 
 Working on it, will update soon.
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnJmbzBwMzJvZzc0ZmxjbHV0dmxwcjZpZm1nMG1vMmM2ZW9hNmp3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" width="480" height="271" alt="Working on it GIF">
