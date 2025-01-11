@@ -6,8 +6,8 @@
   <h3 style="color: white;"><i>Passionate Developer | Problem Solver | Tech Enthusiast</i></h3>
   <div  align = "center" style="display:flex;  padding:10px;">
   
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="480" height="271" alt="Coding GIF">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWpqMnB6NHowMzNwN2Y4YjY2d3Vscm1hNm5qM3RkMXNxcXh5czA2MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif" width="480" height="271" alt="Coding GIF">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="480" height="480" alt="Coding GIF">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWpqMnB6NHowMzNwN2Y4YjY2d3Vscm1hNm5qM3RkMXNxcXh5czA2MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif" width="480" height="480" alt="Coding GIF">
   </div>
 </div>
 
