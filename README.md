@@ -55,6 +55,7 @@ A passionate developer with expertise in multiple programming languages and fram
 - **Outcome**: Results or impact of the project.
 
 Working on it, will update soon.
+<br>
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnJmbzBwMzJvZzc0ZmxjbHV0dmxwcjZpZm1nMG1vMmM2ZW9hNmp3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" width="480" height="271" alt="Working on it GIF">
 
 <!-- Certifications Section -->
