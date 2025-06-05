@@ -1,86 +1,126 @@
-<!-- Header Section -->
-<div align="center" style="background: linear-gradient(135deg, #667eea, #764ba2); padding: 30px; border-radius: 12px;">
-  <h1 style="color: #ffffff; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-    Raj Bhoyar
-  </h1>
-  <h2 style="color: #e0e0e0; font-weight: lighter;">Empowering Startups with Cutting-Edge Technology</h2>
-  <img src="raj.png" style="border-radius: 50%; width: 120px; height: 120px; box-shadow: 0px 0px 15px rgba(0,0,0,0.2);" alt="Profile Picture">
-  <h3 style="color: #dcdcdc; font-style: italic;">Passionate Developer | Problem Solver | Tech Enthusiast</h3>
-  <br>
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="480" height="271" alt="Coding GIF">
-  <br>
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWpqMnB6NHowMzNwN2Y4YjY2d3Vscm1hNm5qM3RkMXNxcXh5czA2MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif" width="480" alt="Tech Vibe GIF">
-</div>
+<!-- ============================ -->
+<!--        Raj Bhoyar            -->
+<!-- ============================ -->
+
+<p align="center">
+  <img src="raj.png" width="140" height="140" style="border-radius: 50%; box-shadow: 0 4px 32px #764ba244;" alt="Raj Bhoyar" />
+</p>
+
+<h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #4f4f4f;">
+  <img src="https://img.icons8.com/color/48/000000/rocket--v2.png" width="36" /> Raj Bhoyar
+</h1>
+<p align="center">
+  <b>Empowering Startups with Cutting-Edge Technology</b>
+</p>
+<p align="center" style="color: #764ba2;">
+  <i>Passionate Developer | Problem Solver | Tech Enthusiast</i>
+</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="320" alt="Coding" />
+  <img src="https://i.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="240" alt="Tech Vibes" />
+</p>
+
+---
 
 <!-- Table of Contents -->
-## ✨ Table of Contents
-- [About Me](#about-me)
-- [Skills](#skills)
-  - [Programming Languages](#programming-languages)
-  - [Web Technologies](#web-technologies)
-  - [Cloud Infrastructure](#cloud-infrastructure)
-- [Projects](#projects)
-- [Certifications](#certifications)
-- [Blog Posts](#blog-posts)
-- [Connect with Me](#connect-with-me)
+<p align="center">
+  <a href="#about-me">About</a> •
+  <a href="#skills">Skills</a> •
+  <a href="#projects">Projects</a> •
+  <a href="#certifications">Certifications</a> •
+  <a href="#blog-posts">Blog</a> •
+  <a href="#connect-with-me">Contact</a>
+</p>
 
-<!-- About Section -->
-## About Me
+---
 
-I'm a passionate developer with expertise in various programming languages and frameworks. I enjoy solving complex problems and building scalable solutions that make a difference. My background in software development has allowed me to work on innovative projects and contribute to transformative technology for startups and enterprises alike.
+## 👋 About Me
 
-<!-- Skills Section -->
-## Skills
+Hi! I'm Raj, a software developer passionate about building scalable solutions and crafting elegant code. I thrive on solving complex problems and love empowering startups and teams with innovative technology. I have hands-on expertise in full-stack development, cloud infrastructure, and AI/ML.
 
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+---
 
-### Web Technologies
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+## 🛠️ Skills
 
-### Cloud Infrastructure
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)
-![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)
-![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
+### Languages & Frameworks
 
-<!-- Projects Section -->
-## Projects
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
+</p>
+
+### Cloud, DevOps & Databases
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white"/>
+  <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white"/>
+</p>
+
+---
+
+## 🚀 Projects
 
 ### [RespireX](https://github.com/rajbhoyar729/RespireX)
-- **Description**: RespireX is a modern platform built with Next.js and TypeScript to diagnose respiratory diseases efficiently. It leverages AI and machine learning to provide accurate and timely diagnostics.
-- **Tech Stack**: Next.js, TypeScript, TensorFlow, MongoDB, Tailwind CSS
-- **Outcome**: Successfully deployed an MVP that reduced diagnostic time by 50% and improved accuracy by 20%.
+> **A modern platform using Next.js & AI for fast, accurate respiratory disease diagnosis.**
+>
+> <img src="https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white">
+> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white">
+> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white">
+> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white">
+> <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white">
 
-_Work in progress... More projects will be updated soon._
+- 🚀 **MVP deployed**, reduced diagnostic time by **50%** and improved accuracy by **20%**.
+- Working on it, more projects coming soon!
 
-<br>
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnJmbzBwMzJvZzc0ZmxjbHV0dmxwcjZpZm1nMG1vMmM2ZW9hNmp3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" width="480" alt="Project GIF">
+<p align="center">
+  <img src="https://i.giphy.com/media/jBOOXxSJfG8kqMxT11/giphy.gif" width="480" alt="Project Animation" />
+</p>
 
-<!-- Certifications Section -->
-## Certifications
+---
 
-- ![Upcoming](https://img.shields.io/badge/Upcoming-Course-green?style=for-the-badge&logo=awesomelogo) **Upcoming Course**: Preparing for an exciting new course – Stay tuned for updates!
-- **Data Structure and Algorithms using Java**: Successfully completed the certification. For more details, please visit [Certification Details](https://archive.nptel.ac.in/noc/B2C/candidate_login/candidate_scores.php?courseid=noc22-cs92).
+## 📜 Certifications
 
-<!-- Blog Posts Section -->
-## Blog Posts
+- [![Upcoming](https://img.shields.io/badge/Upcoming-Course-green?style=for-the-badge&logo=awesomelogo)]() **Upcoming Course**: Stay tuned for new certifications!
+- [Data Structure and Algorithms using Java](https://archive.nptel.ac.in/noc/B2C/candidate_login/candidate_scores.php?courseid=noc22-cs92) — NPTEL
 
-- **Personal Learning Blog**: [The Battle for Consistency: A Journey of Hammering Away at Problems (Introduction)](https://medium.com/@rbhoyar729/the-battle-for-consistency-a-journey-of-hammering-away-at-problems-introduction-cad6b9d39a48)
+---
 
-<!-- Social Links Section -->
-## Connect with Me
+## 📝 Blog Posts
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raj-bhoyar-b597b416a)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/raj729/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://bitwizard.tech)
+- **Personal Learning Blog:**  
+  [The Battle for Consistency: A Journey of Hammering Away at Problems (Introduction)](https://medium.com/@rbhoyar729/the-battle-for-consistency-a-journey-of-hammering-away-at-problems-introduction-cad6b9d39a48)
+
+---
+
+## 📬 Connect with Me
+
+<p>
+  <a href="https://www.linkedin.com/in/raj-bhoyar-b597b416a">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/raj729/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://bitwizard.tech">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<!-- Footer -->
+<p align="center" style="font-size: small; color: #aaa;">
+  <em>Let's build something amazing together!</em>
+</p>
