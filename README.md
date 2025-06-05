@@ -124,3 +124,6 @@ Hi! I'm Raj, a software developer passionate about building scalable solutions a
 <p align="center" style="font-size: small; color: #aaa;">
   <em>Let's build something amazing together!</em>
 </p>
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm02bm81NzZwcXNjMDc0dnFodHp5aXI3b3VyejdmY3F2d2tzN3NqYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif" width="320" alt="Let's Build Together" />
+</p>
