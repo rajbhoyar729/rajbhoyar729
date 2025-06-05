@@ -16,7 +16,7 @@
   <i>Passionate Developer | Problem Solver | Tech Enthusiast</i>
 </p>
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="320" alt="Coding" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWpneGp5ZWx5anFzcTB5b2w1dnA4MjlkNjhwc3B6bHdldG9qMHJ6biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9d8XB557e8phGLBVS/giphy.gif" width="320" alt="Coding" />
   <img src="https://i.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="240" alt="Tech Vibes" />
 </p>
 
