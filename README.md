@@ -73,7 +73,4 @@ Working on it, More projects will be updated soon.
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://bitwizard.tech)
 
 <!-- GitHub Stats Section -->
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajbhoyar729&theme=dark&show_icons=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajbhoyar729&langs_count=8&theme=dark)
