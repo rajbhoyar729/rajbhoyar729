@@ -72,5 +72,3 @@ Working on it, More projects will be updated soon.
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/raj729/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://bitwizard.tech)
 
-<!-- GitHub Stats Section -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajbhoyar729&langs_count=8&theme=dark)
