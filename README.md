@@ -17,7 +17,7 @@
 </p>
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWpneGp5ZWx5anFzcTB5b2w1dnA4MjlkNjhwc3B6bHdldG9qMHJ6biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9d8XB557e8phGLBVS/giphy.gif" width="320" alt="Coding" />
-  <img src="https://i.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="240" alt="Tech Vibes" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTdraHVhdmFuNDJkaHcwams0eWpjYWx0OHZ5ajk2M2dmbXh6NXlleSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/USV0ym3bVWQJJmNu3N/giphy.gif" width="240" alt="Tech Vibes" />
 </p>
 
 ---
