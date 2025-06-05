@@ -95,7 +95,7 @@ Hi! I'm Raj, a software developer passionate about building scalable solutions a
 ## 📜 Certifications
 
 - [![Upcoming](https://img.shields.io/badge/Upcoming-Course-green?style=for-the-badge&logo=awesomelogo)]() **Upcoming Course**: Stay tuned for new certifications!
-- [Data Structure and Algorithms using Java](https://archive.nptel.ac.in/noc/B2C/candidate_login/candidate_scores.php?courseid=noc22-cs92) — NPTEL
+- [Data Structure and Algorithms using Java]([https://archive.nptel.ac.in/noc/B2C/candidate_login/candidate_scores.php?courseid=noc22-cs92](https://drive.google.com/file/d/1GqF4Lx0uTBe5LTQPiyNBE96mNQ45OGNd/view?usp=sharing)) — NPTEL
 
 ---
 
