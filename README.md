@@ -24,12 +24,12 @@
 
 <!-- Table of Contents -->
 <p align="center">
-  <a href="#about-me">About</a> •
-  <a href="#skills">Skills</a> •
-  <a href="#projects">Projects</a> •
-  <a href="#certifications">Certifications</a> •
-  <a href="#blog-posts">Blog</a> •
-  <a href="#connect-with-me">Contact</a>
+  <a href="#-about-me">About</a> •
+  <a href="#-skills">Skills</a> •
+  <a href="#-projects">Projects</a> •
+  <a href="#-certifications">Certifications</a> •
+  <a href="#-blog-posts">Blog</a> •
+  <a href="#-connect-with-me">Contact</a>
 </p>
 
 ---
